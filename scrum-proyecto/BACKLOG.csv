@@ -1,0 +1,16 @@
+﻿ID,Tarea,Puntos,Sprint
+T01,Estructura HTML de la página,2,1
+T02,Estilos básicos,2,1
+T03,Mostrar el catálogo desde el arreglo productos,3,1
+T04,Tarjeta de producto,2,1
+T05,Botón Agregar al carrito,3,1
+T06,Mostrar el carrito en pantalla,3,2
+T07,Calcular el total,2,2
+T08,Quitar producto y vaciar carrito,3,2
+T09,Contador en el encabezado,2,2
+T10,Diseño responsivo,3,2
+T11,Filtro por categoría,3,3
+T12,Buscador por nombre,3,3
+T13,Guardar el carrito (localStorage),3,3
+T14,Formulario de pedido,3,3
+T15,Documentar (README y captura),1,3
